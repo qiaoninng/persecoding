@@ -1,0 +1,8 @@
+#Q5
+num1 = input()
+operation = input()
+num2 = input()
+if operation == '+':
+    print(num1 + num2)
+else:
+    print (num1 * num2) 
