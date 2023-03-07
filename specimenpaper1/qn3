@@ -1,0 +1,6 @@
+#Q3
+word = input()
+
+while len(word) <= 30:
+    print(word, end='')
+    word += word
